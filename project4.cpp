@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 //each req is split apart to make work more simple
+//also working on my comments
 
 int main() {
     //takes the name of the item
