@@ -35,6 +35,7 @@ cout << "Your age next year is: " << age * 2 << "\n";
 //the first inputed number is outputed and also multiplied by 2
 cout << "Favorite Number: " << firstnumber << "\n";
 cout << "Favorite Number Doubled: " << firstnumber * 2 << "\n";
+cout << "Second Number Picked: " << secondnumber << "\n";
 //EXTRA CREDIT
 cout << "Sum of Both Numbers: " << firstnumber + secondnumber << "\n";
 cout << "Product of Both Numbers: " << firstnumber * secondnumber << "\n";
