@@ -9,8 +9,6 @@ int main() {
     double average;
     int max;
     int min;
-    int pass[5];
-    int fail[5];
     
     for(int i = 0; i < 5; i++) {
         cout << "Enter Your Score: "; "\n";
